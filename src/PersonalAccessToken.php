@@ -1,6 +1,6 @@
 <?php
 
-namespace Packages\CacheLaravelSanctum;
+namespace CacheLaravelSanctum;
 
 use Cache;
 use Illuminate\Database\Eloquent\Casts\Attribute;

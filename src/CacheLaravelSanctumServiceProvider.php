@@ -1,6 +1,6 @@
 <?php
 
-namespace Packages\CacheLaravelSanctum;
+namespace CacheLaravelSanctum;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Sanctum\Sanctum;

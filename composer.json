@@ -64,7 +64,7 @@
                 "CacheLaravelSanctum\\CacheLaravelSanctumServiceProvider"
             ],
             "aliases": {
-                "CacheSanctum": "CacheLaravelSanctum\\Facades\\CacheLaravelSanctum"
+                "CacheLaravelSanctum": "CacheLaravelSanctum\\Facades\\CacheLaravelSanctum"
             }
         }
     },
