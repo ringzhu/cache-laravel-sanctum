@@ -37,7 +37,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sanctum\\": "src"
+            "CacheLaravelSanctum\\": "src"
         }
     },
     "autoload-dev": {
